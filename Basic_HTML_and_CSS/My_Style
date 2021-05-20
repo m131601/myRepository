@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+.My_Style{
+	 background-color: red;
+	 color: blue;
+	 text-deocoration: underline;
+	 font-weight: bold;
+	 font-size: small;
+	 }
+	</style>
+<h2 class=".My_Style">This is h2 element My_Style attribute</h2>
+</body>
+</html>
