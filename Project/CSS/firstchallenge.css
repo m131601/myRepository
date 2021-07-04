@@ -1,0 +1,23 @@
+img {
+  filter: grayscale(20%);
+}
+
+body {
+    border: 2px solid green;
+    border-radius: 15px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+
+  footer {
+    text-align: bold center;
+  }
+
+  footer {
+    font-weight: normal;
+  }
